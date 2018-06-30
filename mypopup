@@ -1,0 +1,34 @@
+This is a basic html doc
+<!doctype html>
+
+<html>
+
+
+	<head>
+		<style type="text/css">
+		body{
+			margin: 0px;
+			padding: 0px;
+			font-family: Arial, Helvetica, Sans-serif;
+			font-size: 13px;
+		
+		}
+		.popupContainerDiv{
+			width: 350px;
+			min-height: 150px;
+		
+		}
+		</style>
+
+
+
+	</head>
+	<body>
+		<div class="popupContainerDiv">
+		Just add what you want the popup to say
+		</div>
+
+	</body>
+
+
+</html>
