@@ -1,0 +1,15 @@
+
+This is a template for a manifest needed for Chrome Extensions. Needs to be saved as Manifest.json
+
+{
+	"name": "Extension Name",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Enter a short description",
+	"Browser_action":{
+		"default_icon": "enter name of icon .png file in the same folder as the manifest file"	
+
+	}
+
+
+}
